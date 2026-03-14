@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 80px;
+  background: #f2f7ff;
+}
+
+.error {
+  background: #ffe5e5;
+  color: #d60000;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-weight: 600;
+}
