@@ -1,4 +1,4 @@
-Digital Locker
+# Digital Locker
 
 A secure web application that allows users to upload, store, manage, and access their important digital documents in one place.
 
@@ -12,16 +12,16 @@ The project demonstrates full-stack development using Node.js, Express.js, Mongo
 
 # Features
 
-- 📤 Upload documents
-- 📂 Categorize files (Personal, Identity, Education, Financial, Medical, etc.)
-- 🗓 Add expiry dates to documents
-- 🔍 Search files instantly
-- 👀 Preview documents
-- ✏ Edit file category and expiry date
-- 📝 Rename uploaded files
-- ⬇ Download files
-- 🗑 Delete files
-- 🔔 Toast notifications for actions
+-  Upload documents
+-  Categorize files (Personal, Identity, Education, Financial, Medical, etc.)
+-  Add expiry dates to documents
+-  Search files instantly
+-  Preview documents
+-  Edit file category and expiry date
+-  Rename uploaded files
+-  Download files
+-  Delete files
+-  Toast notifications for actions
 
 ---
 
@@ -72,23 +72,23 @@ Digital-Locker
 
 # Installation
 
-Clone the repository:
+*Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/digital-locker.git
+git clone https://github.com/Amruthasg23/digital-locker.git
 
-Go to the project directory:
+*Go to the project directory:
 
 cd digital-locker
 
-Install dependencies:
+*Install dependencies:
 
 npm install
 
-Run the server:
+*Run the server:
 
 node app.js
 
-Open in browser:
+*Open in browser:
 
 http://localhost:3000
 
@@ -108,5 +108,3 @@ http://localhost:3000
 
 Amrutha S G
 
-Computer Science Student
-Passionate about Web Development and Open Source.
